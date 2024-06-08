@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|c:\\users\\sabal\\source\\repos\\crud_project\\crud_project\\db\\dbregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|solutionrelative:crud_project\\db\\dbregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|c:\\users\\sabal\\source\\repos\\crud_project\\crud_project\\controllers\\registerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|solutionrelative:crud_project\\controllers\\registerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|c:\\users\\sabal\\source\\repos\\crud_project\\crud_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|solutionrelative:crud_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|c:\\users\\sabal\\source\\repos\\crud_project\\crud_project\\model\\modelregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4678C-F77E-4543-AD19-A30FC55E0E71}|Crud_Project\\Crud_Project.csproj|solutionrelative:crud_project\\model\\modelregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterAPI.cs",
+              "DocumentMoniker": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\Controllers\\RegisterAPI.cs",
+              "RelativeDocumentMoniker": "Crud_Project\\Controllers\\RegisterAPI.cs",
+              "ToolTip": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\Controllers\\RegisterAPI.cs",
+              "RelativeToolTip": "Crud_Project\\Controllers\\RegisterAPI.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:06:18.831Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBRegister.cs",
+              "DocumentMoniker": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\DB\\DBRegister.cs",
+              "RelativeDocumentMoniker": "Crud_Project\\DB\\DBRegister.cs",
+              "ToolTip": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\DB\\DBRegister.cs",
+              "RelativeToolTip": "Crud_Project\\DB\\DBRegister.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAEwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:30:12.906Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelRegister.cs",
+              "DocumentMoniker": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\Model\\ModelRegister.cs",
+              "RelativeDocumentMoniker": "Crud_Project\\Model\\ModelRegister.cs",
+              "ToolTip": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\Model\\ModelRegister.cs",
+              "RelativeToolTip": "Crud_Project\\Model\\ModelRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:24:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Crud_Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sabal\\source\\repos\\Crud_Project\\Crud_Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Crud_Project\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T18:03:46.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
